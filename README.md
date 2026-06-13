@@ -204,7 +204,7 @@ ETAPA 5 — Projeto Final      → Mês 8
 ```
 llm-do-zero/
 │
-├── README.md                  ← você está aqui
+├── README.md                 
 │
 ├── 00_prereqs/
 │   ├── python_basics.py
