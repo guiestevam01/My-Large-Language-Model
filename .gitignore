@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Ambientes virtuais
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Variáveis de ambiente
+.env.local
+.env.*.local
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Pesos e checkpoints de modelos (arquivos grandes)
+*.pth
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+checkpoints/
+weights/
+saved_models/
+
+# Datasets e dados brutos (geralmente grandes demais pro git)
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.jsonl
+*.parquet
+*.arrow
+*.txt
+
+# Logs e métricas de treino
+logs/
+runs/
+wandb/
+tensorboard/
+*.log
+
+# Cache do HuggingFace e tokenizers
+.cache/
+~/.cache/huggingface/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Outputs temporários
+output/
+outputs/
+results/
+tmp/
+temp/
