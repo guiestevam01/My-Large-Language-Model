@@ -272,13 +272,6 @@ llm-do-zero/
 
 ---
 
-## 💡 Dicas Pessoais
-
-- Se travar em algo, avançar e voltar depois — entendimento vem com iteração.
-- Copiar o código do livro à mão (não copiar/colar) ajuda a fixar.
-- Commit pequeno a cada subtópico concluído — o histórico conta a história.
-- Não pular os exercícios — eles testam o que você realmente entendeu.
-
 ---
 
 *Iniciado em: <!-- data de início -->*  
