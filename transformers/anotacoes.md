@@ -1,0 +1,2 @@
+    "A maioria dos modelos neurais competitivos de transdução de sequência possuem uma estrutura de codificador-decodificador [5, 2, 35]. Aqui, o codificador mapeia uma sequência de representações de símbolos (x₁, …, xₙ) para uma sequência de representações contínuas z = (z₁, …, zₙ). Dada z, o decodificador então gera uma sequência de saída (y₁, …, yₘ) de símbolos, um elemento de cada vez. Em cada passo, o modelo é auto-regressivo [10], consumindo os símbolos gerados anteriormente como entrada adicional ao gerar o próximo.
+"
